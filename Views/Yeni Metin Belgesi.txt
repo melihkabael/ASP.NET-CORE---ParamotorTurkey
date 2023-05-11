@@ -1,0 +1,54 @@
+  [Route("/AboutUs")]
+    public IActionResult AboutUs()
+    {
+        return View();
+    }
+
+     [Route("/Blog")]
+    public IActionResult Blog()
+    {
+        return View();
+    }
+     [Route("/Contact")]
+
+    public IActionResult Contact()
+    {
+        return View();
+    }
+     [Route("/Elements")]
+
+    public IActionResult Elements()
+    {
+        return View();
+    }
+     [Route("/Portfolio")]
+
+     public IActionResult Portfolio()
+    {
+        return View();
+    }
+     [Route("/PortfolioDetails")]
+
+     public IActionResult PortfolioDetails()
+    {
+        return View();
+    }
+     [Route("/Service")]
+
+     public IActionResult Service()
+    {
+        return View();
+    }
+     [Route("/SingleBlog")]
+
+     public IActionResult SingleBlog()
+    {
+        return View();
+    }
+
+     [Route("/Event")]
+
+     public IActionResult Event()
+    {
+        return View();
+    }
